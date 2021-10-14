@@ -1,7 +1,7 @@
 # Location based encryption in Python 
 
 ![sheme](/documentation/scheme.png)
-[![sheme]/documentation/scheme.png](./example.svg)
+(if you can't see the scheme correctly, try it in Dark Mode)
 ## GeoLock Algorithm
 The project algorithm is inspired by the  GeoCodex GeoEncryption Algoritm. (References: [A Location Based Encryption Technique and Some of its Applications by Locan Scott](https://faculty.nps.edu/dedennin/publications/ION_GPS_2003_DC_VF.pdf))
 
